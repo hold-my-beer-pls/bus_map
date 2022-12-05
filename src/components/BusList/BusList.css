@@ -1,0 +1,13 @@
+.routeList {
+    margin: 20px;
+    padding: 10px;
+    border-color: #d1c1ff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.routeList__title {
+    font-size: 22px;
+}

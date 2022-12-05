@@ -1,0 +1,21 @@
+.bus {
+    margin: 12px 0;
+    padding: 10px;
+    border-color: #00000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.bus:hover {
+    border-color: #ffcf2a;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.bus__selected {
+    border-color: #ffcf2a;
+    border-width: 2px;
+    border-style: solid
+}
